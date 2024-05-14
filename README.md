@@ -39,7 +39,6 @@
     </summary>
         <ul>
             <br>Unreal Engine 5 Beginner Tutorial from Bad Decisions Studio  </br>
-            ![图片alt](https://yt3.googleusercontent.com/Pui1ku2QPv17SxouBTu5LJpLZsYsTcEz6FIbqwk3m27XCgDlDRB6BA1OPoR3-LkbF89w5a9WKQ=s160-c-k-c0x00ffffff-no-rj "Bad Decisions Studio")
             <li><a href="https://www.youtube.com/watch?v=bDUFB1ng00Q&list=PLIn-yd4vnXbjWeYqU7epakdnVzoysMToy&index=4">Unreal Engine 5 Beginner Tutorials</a
             </li>
         </ul>
