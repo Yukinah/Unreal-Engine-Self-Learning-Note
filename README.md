@@ -32,7 +32,7 @@
             </ul>
   </details>
 ## 相关教程参考链接：
-###YT视频相关新手起步教程：
+### YT视频相关新手起步教程：
 + <details open>
     <summary>
          <b>For Very Beginners：</b>
