@@ -7,10 +7,10 @@
       </summary>
              <ul>
                <br>首页：</br>
-               <li><a href="[https://ihacksoft.com/1379.html](https://www.unrealengine.com/en-US?lang=en-US)">Unreal Engine 首页</a
+               <li><a href="https://ihacksoft.com/1379.html](https://www.unrealengine.com/en-US?lang=en-US">Unreal Engine 首页</a
                </li>
                <br>下载页：</br>
-               <li><a href="[https://www.feng.com/post/11381360](https://www.unrealengine.com/en-US/download)"> Download Unreal Engine</a>
+               <li><a href="https://www.feng.com/post/11381360](https://www.unrealengine.com/en-US/download"> Download Unreal Engine</a>
                </li>
              </ul>
   </details>
@@ -21,10 +21,10 @@
             <ul>
               重要使用学习的相关链接直达：
               <br>教程</b>
-              <li><a href="[https://www.zhihu.com/question/390946652](https://dev.epicgames.com/community/unreal-engine/learning)">Learning Library</a>
+              <li><a href="https://dev.epicgames.com/community/unreal-engine/learning">Learning Library</a>
               </li>
               <br>例子：</b>
-              <li><a href="[https://www.zhihu.com/question/390946652](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine)">Samples and Tutorials</a>
+              <li><a href="https://www.zhihu.com/question/390946652](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine">Samples and Tutorials</a>
               </li>
               <br>✨文档：</b>
               <li><a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation">Unreal Engine 5.4 Documentation</a>
